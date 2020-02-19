@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.unibl.etf.mdp.controller.ViewActivityController">
+   <children>
+      <TableView fx:id="tabelaLoginLogout" layoutY="1.0" prefHeight="394.0" prefWidth="600.0">
+        <columns>
+          <TableColumn fx:id="vrijemePrijave" minWidth="20.0" prefWidth="190.0" text="Vrijeme prijave" />
+          <TableColumn fx:id="vrijemeOdjave" minWidth="20.0" prefWidth="190.0" text="Vrijeme odjave" />
+            <TableColumn fx:id="razlikaVremena" minWidth="0.0" prefWidth="215.0" text="Ukupno provedeno vrijeme" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

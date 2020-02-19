@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://server.soap" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://server.soap" xmlns:intf="http://server.soap" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://server.soap" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="metoda">
+    <complexType/>
+   </element>
+   <element name="metodaResponse">
+    <complexType/>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="metodaRequest">
+
+      <wsdl:part element="impl:metoda" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="metodaResponse">
+
+      <wsdl:part element="impl:metodaResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="Server">
+
+      <wsdl:operation name="metoda">
+
+         <wsdl:input message="impl:metodaRequest" name="metodaRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:metodaResponse" name="metodaResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="ServerSoapBinding" type="impl:Server">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="metoda">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="metodaRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="metodaResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="ServerService">
+
+      <wsdl:port binding="impl:ServerSoapBinding" name="Server">
+
+         <wsdlsoap:address location="http://localhost:8080/RestService/services/Server"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

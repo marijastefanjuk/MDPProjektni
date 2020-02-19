@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T14:47:33</date>
+  <millis>1560343653610</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-12T14:48:42</date>
+  <millis>1560343722910</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T15:07:21</date>
+  <millis>1560344841707</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+</record>
+<record>
+  <date>2019-06-12T15:10:55</date>
+  <millis>1560345055558</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Connection reset by peer: socket write error</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:28:39</date>
+  <millis>1560349719158</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>.\configuration\user-configuration.properties (The system cannot find the path specified)</message>
+</record>
+<record>
+  <date>2019-06-12T16:28:40</date>
+  <millis>1560349720884</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.Main</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>no protocol: login</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:29:29</date>
+  <millis>1560349769894</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>.\configuration\user-configuration.properties (The system cannot find the path specified)</message>
+</record>
+<record>
+  <date>2019-06-12T16:29:36</date>
+  <millis>1560349776954</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.Main</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>no protocol: login</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:30:56</date>
+  <millis>1560349856377</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>configuration\user-configuration.properties (The system cannot find the path specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:31:51</date>
+  <millis>1560349911755</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.Main</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:32:21</date>
+  <millis>1560349941669</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T16:33:35</date>
+  <millis>1560350015208</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T17:02:39</date>
+  <millis>1560351759515</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T19:07:44</date>
+  <millis>1560359264850</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-12T19:10:28</date>
+  <millis>1560359428397</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T19:12:38</date>
+  <millis>1560359558302</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-12T19:12:54</date>
+  <millis>1560359574891</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T17:07:46</date>
+  <millis>1560438466073</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T17:21:40</date>
+  <millis>1560439300298</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-13T17:24:27</date>
+  <millis>1560439467775</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Connection reset by peer: socket write error</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T17:31:46</date>
+  <millis>1560439906622</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-13T17:31:54</date>
+  <millis>1560439914967</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.ViewActivityController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Unparseable date: "password1"</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:00:28</date>
+  <millis>1560441628134</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-13T18:01:22</date>
+  <millis>1560441682958</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:33:43</date>
+  <millis>1560443623763</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-13T18:41:05</date>
+  <millis>1560444065536</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:41:05</date>
+  <millis>1560444065583</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Connection reset by peer: socket write error</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T08:54:34</date>
+  <millis>1560495274475</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<record>
+  <date>2019-06-14T08:56:52</date>
+  <millis>1560495412484</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Connection reset by peer: socket write error</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T12:48:02</date>
+  <millis>1560595682450</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+</record>
+<record>
+  <date>2019-06-15T12:48:36</date>
+  <millis>1560595716698</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.ViewActivityController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Unparseable date: "password1"</message>
+</record>
+<record>
+  <date>2019-06-15T12:52:55</date>
+  <millis>1560595975718</millis>
+  <sequence>2</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Connection reset by peer: socket write error</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:06:43</date>
+  <millis>1560596803742</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:13:09</date>
+  <millis>1560597189561</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T20:52:23</date>
+  <millis>1560624743323</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T21:03:28</date>
+  <millis>1560625408592</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T21:03:58</date>
+  <millis>1560625438613</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused to host: 192.168.2.1; nested exception is: 
+	java.net.ConnectException: Connection refused: connect</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T14:28:12</date>
+  <millis>1560688092987</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T20:43:16</date>
+  <millis>1560710596619</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>error unmarshalling return; nested exception is: 
+	java.lang.ClassNotFoundException: org.unibl.etf.mdp.server.FileTransferInterface</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T20:45:17</date>
+  <millis>1560710717171</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>error unmarshalling return; nested exception is: 
+	java.lang.ClassNotFoundException: org.unibl.etf.mdp.server.FileTransferInterface</message>
+</record>
+<record>
+  <date>2019-06-16T20:45:58</date>
+  <millis>1560710758014</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>error unmarshalling return; nested exception is: 
+	java.lang.ClassNotFoundException: org.unibl.etf.mdp.server.FileTransferInterface</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T20:49:10</date>
+  <millis>1560710950422</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>error unmarshalling return; nested exception is: 
+	java.lang.ClassNotFoundException: org.unibl.etf.mdp.server.FileTransferInterface</message>
+</record>
+<record>
+  <date>2019-06-16T20:55:20</date>
+  <millis>1560711320359</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T21:15:32</date>
+  <millis>1560712532275</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>20</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T23:16:54</date>
+  <millis>1560719814471</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T07:55:18</date>
+  <millis>1560750918399</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Error occurred in server thread; nested exception is: 
+	java.lang.ExceptionInInitializerError</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T07:59:23</date>
+  <millis>1560751163276</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.controller.UserStartController</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Error occurred in server thread; nested exception is: 
+	java.lang.NoClassDefFoundError: Could not initialize class javafx.scene.control.Label</message>
+</record>
+<record>
+  <date>2019-06-17T08:00:05</date>
+  <millis>1560751205238</millis>
+  <sequence>2</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T08:04:45</date>
+  <millis>1560751485842</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T08:07:51</date>
+  <millis>1560751671761</millis>
+  <sequence>1</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T09:50:16</date>
+  <millis>1560757816144</millis>
+  <sequence>0</sequence>
+  <logger>org.unibl.etf.mdp.service.UserChat</logger>
+  <level>SEVERE</level>
+  <class>org.unibl.etf.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>23</thread>
+  <message>Connection reset</message>
+</record>
+</log>

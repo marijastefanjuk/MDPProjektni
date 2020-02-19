@@ -1,0 +1,33 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from AddRemoveUserService WSDL service -->
+
+  <service name="AddRemoveUser" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://soap.mdp.etfbl.net"/>
+      <parameter name="wsdlServiceElement" value="AddRemoveUserService"/>
+      <parameter name="schemaQualified" value="http://soap.mdp.etfbl.net"/>
+      <parameter name="wsdlServicePort" value="AddRemoveUser"/>
+      <parameter name="className" value="net.etfbl.mdp.soap.AddRemoveUserSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="AddRemoveUser"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="addUser" qname="operNS:addUser" xmlns:operNS="http://soap.mdp.etfbl.net" returnQName="retNS:addUserReturn" xmlns:retNS="http://soap.mdp.etfbl.net" returnType="rtns:boolean" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:username" xmlns:pns="http://soap.mdp.etfbl.net" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:password" xmlns:pns="http://soap.mdp.etfbl.net" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="blockUser" qname="operNS:blockUser" xmlns:operNS="http://soap.mdp.etfbl.net" returnQName="retNS:blockUserReturn" xmlns:retNS="http://soap.mdp.etfbl.net" returnType="rtns:boolean" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:username" xmlns:pns="http://soap.mdp.etfbl.net" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <parameter name="allowedMethods" value="addUser blockUser"/>
+
+  </service>
+</deployment>

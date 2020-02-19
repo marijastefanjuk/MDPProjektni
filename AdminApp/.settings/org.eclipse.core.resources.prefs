@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/net/etfbl/mdp/soap/AddRemoveUser.java=UTF-8
+encoding//src/net/etfbl/mdp/soap/AddRemoveUserService.java=UTF-8
+encoding//src/net/etfbl/mdp/soap/AddRemoveUserServiceLocator.java=UTF-8
+encoding//src/net/etfbl/mdp/soap/AddRemoveUserSoapBindingStub.java=UTF-8

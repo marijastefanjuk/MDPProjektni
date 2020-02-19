@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T15:10:55</date>
+  <millis>1560345055434</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T19:04:38</date>
+  <millis>1560359078221</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T19:07:12</date>
+  <millis>1560359232552</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T19:12:09</date>
+  <millis>1560359529598</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T17:31:08</date>
+  <millis>1560439868273</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:01:22</date>
+  <millis>1560441682985</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:31:13</date>
+  <millis>1560443473071</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:31:44</date>
+  <millis>1560443504063</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:32:45</date>
+  <millis>1560443565791</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T18:41:05</date>
+  <millis>1560444065536</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T12:49:02</date>
+  <millis>1560595742052</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.ViewActivityController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Unparseable date: "password1"</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:13:09</date>
+  <millis>1560597189566</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:30:04</date>
+  <millis>1560598204305</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:31:30</date>
+  <millis>1560598290355</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:34:56</date>
+  <millis>1560598496811</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T13:35:58</date>
+  <millis>1560598558508</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T21:02:04</date>
+  <millis>1560625324191</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T21:02:51</date>
+  <millis>1560625371655</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-15T21:03:15</date>
+  <millis>1560625395153</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.controller.AdminStartController</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>14</thread>
+  <message>Connection refused: connect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-16T23:16:54</date>
+  <millis>1560719814481</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T07:58:18</date>
+  <millis>1560751098811</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-17T09:50:16</date>
+  <millis>1560757816142</millis>
+  <sequence>0</sequence>
+  <logger>net.etfbl.mdp.service.AdminSocketServerCommunication</logger>
+  <level>SEVERE</level>
+  <class>net.etfbl.mdp.model.ExceptionHandler</class>
+  <method>exceptionRecord</method>
+  <thread>17</thread>
+  <message>Connection reset</message>
+</record>
+</log>
